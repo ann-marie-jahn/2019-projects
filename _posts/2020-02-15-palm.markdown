@@ -10,3 +10,18 @@ categories: palm
 Company: Palm Computing
 
 Location: Santa Clara, California
+
+![tungsten t](/assets/img/palm_tungstent.jpg)
+_Photo by Letdorf - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9801696_
+
+I joined Palm Computing (the original handheld computers) at the time Palm was transitioning from its hugely successful Palm V personal digital assistant (PDA) to new, more advanced products. I took on responsibility for the accessories and later peripherals P&Ls.
+
+Palm's leadership considered outsourcing the entire product line. As this was under consideration, I took on the challenge of taking a very large number of SKUs with limited profitability, and refining the product line to be lean, highly profitable and manageable. Working together with Sales, Finance, Supply Chain and Industrial Design, we:
+
++ _Instituted a forecasting process_ to track sales trends and react to market needs, whether accelerating or declining.
+
++ _Increased contribution margins_ from 45% to 65% to ensure profitability.
+
++ _Designed innovative and best-selling new products_ including a Tungsten T aluminum hard case that was patented product and selected by Chicago Athenaeum Museum of Architecture and Design for their Good Design award and permanent collection (2002). Credit goes to Marc Van de Loo of Patria Design.
+
+**The result of these efforts was a lean product line that provided higher margins, sold through better at the retail level, reduced inventory risk and most of all matched Palm's brand values for innovation.**

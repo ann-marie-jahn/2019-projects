@@ -10,3 +10,7 @@ Organization: Revo, Inc. (Bausch & Lomb)
 
 Location: Mountain View, California
 
+![blue mirror](/assets/img/blue_mirror.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q6c_rhRS5kM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+

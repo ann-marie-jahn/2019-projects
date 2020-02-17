@@ -16,12 +16,10 @@ An Italian manufacturing company, Barberini is a produces superb quality optical
 
 Barberini SpA produces exclusively glass sunglass lenses. They were concerned about plastic lenses consuming more share of the market. I consulted with the company’s leadership and advised them to focus less on competitors and more on the intrinsic value of their brand, to open a new direction that stayed true to their unique heritage. 
 
-![premium lens](/assets/img/super_premium.jpg)
+**I recommended that Barberini pursue polarized glass lens development. The dynamic leadership invested in cutting edge robotic technology to perfect this product. This strategy immediately proved very successful and created long-term value for the organization.**
 
-I recommended that they pursue polarized glass lens development. The dynamic leadership invested in cutting edge robotic technology to perfect this product. 
+I was later recruited to join the company as Director of Sales & Marketing, where I grew Barberini’s revenue with brands such as Ray-Ban, and worked hand-in-hand with creators at Fossil, Coach and Gucci to develop unique eyewear lenses for those brands.
 
-This strategy immediately proved very successful and created long-term value for the organization.
+_The world’s biggest eyewear group, Luxottica, acquired Barberini in 2018 in a $163 million deal._
 
-I was later recruited to join the company as Director of Sales & Marketing, where I grew Barberini’s revenue with brands such as Ray-Ban and Maui Jim, and worked hand-in-hand with creators at Fossil, Coach and Gucci to develop unique products for them.
-
-The world’s biggest eyewear group, Luxottica, acquired Barberini in 2018 in a $163 million deal.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T6XCLfNFBNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
