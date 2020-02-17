@@ -3,7 +3,7 @@ layout: post
 title:  "Barberini"
 date:   2020-02-15 00:00:00 -0600
 categories: Barberini
-description: Descripton of this page... 
+description: New market opportunities for an Italian manufacturer
 img: fashion_sunglass.jpg
 tags: [Work, Fashion]
 author: Ann Marie Jahn

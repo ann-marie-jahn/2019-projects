@@ -3,6 +3,10 @@ layout: post
 title:  "Non-Profit Organization MPDVoice"
 date:   2020-02-15 00:00:00 -0600
 categories: MPDVoice
+description: Giving people with rare blood cancers a voice
+img: mpd-image-asset-horizontal.jpg
+tags: [Work, Healthcare, Non-Profit]
+author: Ann Marie Jahn
 ---
 # Giving people with rare blood cancers a voice
 

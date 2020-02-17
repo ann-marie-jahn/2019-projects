@@ -3,6 +3,10 @@ layout: post
 title:  "Mayo Clinic Mobile App"
 date:   2020-02-15 00:00:00 -0600
 categories: Mayo Clinic Mobile App
+description: Building a people-friendly mobile app for patients
+img: patient_app.jpg
+tags: [Work, Healthcare, Mobile Apps, Tech]
+author: Ann Marie Jahn
 ---
 # Building a people-friendly mobile app for the #1 healthcare organization in the U.S.
 
