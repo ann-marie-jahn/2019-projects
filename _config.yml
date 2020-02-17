@@ -1,7 +1,6 @@
 title: Ann Marie Jahn - My Work
 email: annmarie.jahn@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-This website shares work by Ann Marie Jahn.
+description: >- # This website shares work by Ann Marie Jahn.
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: ':title/'
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
