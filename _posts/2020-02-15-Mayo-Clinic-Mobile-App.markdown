@@ -6,13 +6,13 @@ categories: Mayo Clinic Mobile App
 ---
 # Building a people-friendly mobile app for the #1 healthcare organization in the U.S.
 
-Company: Mayo Clinic
+Organization: Mayo Clinic
 
 Location: Rochester, Minnesota
 
-![health app](/assets/img/app_health.jpg)
+![patient app](/assets/img/patient_app.jpg)
 
-_Image courtesy of Physicians Health Network_
+_Image courtesy of Edison Awards website_
 
 In 2012 I joined a cross-functional team of talented,passionate and dynamic Mayo Clinic developers and user experience designers working on the Mayo Clinic mobile app. Our objective: to take the Mayo Clinic app from Minimum Viable Product to the next level of usability and value for people using the app.
 
@@ -22,5 +22,6 @@ With support from Apple’s user experience evangelists, Mayo’s talented desig
 
 The result was a highly usable product, beloved by Mayo Clinic patients, rated by Apple as the #1 wellness app.
 
-User Feedback
-“Utilitarian Excellence: By far the easiest and most functional healthcare app available. Messaging, records, labs, imaging, allergies, immunizations, medications, vitals...a great deal of distance ahead of any I have used.”
+**User Feedback**
+
+_“Utilitarian Excellence: By far the easiest and most functional healthcare app available. Messaging, records, labs, imaging, allergies, immunizations, medications, vitals...a great deal of distance ahead of any I have used.”_
