@@ -18,6 +18,10 @@ Location: Santa Clara, California
 ![tungsten t](/assets/img/palm_tungstent.jpg)
 _Photo by Letdorf - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9801696_
 
+Quote from The Zen of Palm:
+
+Avoid the siren call of “features for features’ sake.” It will lead you down the path of suffering and small market share. Instead, focus on the user’s experience with your product. Convenience and usability are power. **Most importantly, focus on the inner tranquility of the customer.**
+
 I joined Palm Computing (the original handheld computers) at the time Palm was transitioning from its hugely successful Palm V personal digital assistant (PDA) to new, more advanced products. I took on responsibility for the accessories and later peripherals P&Ls.
 
 Palm's leadership considered outsourcing the entire product line. As this was under consideration, I took on the challenge of taking a very large number of SKUs with limited profitability, and refining the product line to be lean, highly profitable and manageable. Working together with Sales, Finance, Supply Chain and Industrial Design, we:
