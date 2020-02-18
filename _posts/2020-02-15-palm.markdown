@@ -4,7 +4,7 @@ title:  "Palm"
 date:   2020-02-15 00:00:00 -0600
 categories: palm
 description: Driving innovation and profitability
-img: palm_tungstent.jpg
+img: stylus-pda.jpg
 tags: [Work, Tech]
 author: Ann Marie Jahn
 ---

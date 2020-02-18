@@ -4,7 +4,7 @@ title:  "Barberini"
 date:   2020-02-15 00:00:00 -0600
 categories: Barberini
 description: New market opportunities for an Italian manufacturer
-img: fashion_sunglass.jpg
+img: polar-lens-horizontal.jpg
 tags: [Work, Fashion]
 author: Ann Marie Jahn
 ---

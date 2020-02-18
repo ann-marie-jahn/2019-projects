@@ -4,7 +4,7 @@ title:  "Revo, Inc. Super-Premium Sunglasses"
 date:   2020-02-15 00:00:00 -0600
 categories: Revo
 description: Style and quality at market speed
-img: blue_mirror.jpg
+img: astronaut-lens.jpg
 tags: [Work, Fashion]
 author: Ann Marie Jahn
 
