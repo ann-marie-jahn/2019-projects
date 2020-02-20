@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Revo, Inc. Super-Premium Sunglasses"
+title:  "Revo Sunglasses"
 date:   2020-02-15 00:00:00 -0600
 categories: Revo
 description: Style and quality at market speed
 img: astronaut-lens.jpg
-tags: [Work, Fashion]
+tags: [Fashion,Function,Super-Premium,Global Distribution]
 author: Ann Marie Jahn
 
 

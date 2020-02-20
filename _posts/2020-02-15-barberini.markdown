@@ -5,7 +5,7 @@ date:   2020-02-15 00:00:00 -0600
 categories: Barberini
 description: New market opportunities for an Italian manufacturer
 img: polar-lens-horizontal.jpg
-tags: [Work, Fashion]
+tags: [Fashion,Function,Made-in-Italy,Global Distribution]
 author: Ann Marie Jahn
 ---
 # Identifying new market opportunities for an Italian manufacturer

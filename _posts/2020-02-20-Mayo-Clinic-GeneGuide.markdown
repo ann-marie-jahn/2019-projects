@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Mayo Clinic GeneGuide"
-date:   2020-02-15 00:00:00 -0600
+date:   2020-02-20 00:00:00 -0600
 categories: Mayo Clinic Consumer Genetic Testing App
 description: Humanizing technology with empathy
 img: mom-daughter.jpg
-tags: [Work, Healthcare, Tech]
+tags: [Health,Wellness,Direct-to-Consumer,Web Applications]
 author: Ann Marie Jahn
 ---
 # Humanizing technology with empathy 
