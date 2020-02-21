@@ -26,6 +26,6 @@ With support from Apple’s user experience evangelists, Mayo’s talented desig
 
 The result was a highly usable product, beloved by Mayo Clinic patients, rated by Apple as the #1 wellness app.
 
-**User Feedback**
+**USER FEEDBACK**
 
 _“Utilitarian Excellence: By far the easiest and most functional healthcare app available. Messaging, records, labs, imaging, allergies, immunizations, medications, vitals...a great deal of distance ahead of any I have used.”_
