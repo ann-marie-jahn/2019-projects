@@ -8,7 +8,7 @@ img: mobile-app-design.jpg
 tags: [Health, Wellness, Mobile Apps, iOS, Android, Patient Portal]
 author: Ann Marie Jahn
 ---
-# Building a people-friendly mobile app for the #1 healthcare organization in the U.S.
+# A people-friendly mobile app for the U.S. #1 in healthcare
 
 Organization: Mayo Clinic
 
@@ -18,11 +18,19 @@ Location: Rochester, Minnesota
 
 _Image courtesy of Edison Awards website_
 
-In 2012 I joined a cross-functional team of talented,passionate and dynamic Mayo Clinic developers and user experience designers working on the Mayo Clinic mobile app. Our objective: to take the Mayo Clinic app from Minimum Viable Product to the next level of usability and value for people using the app.
+**ABOUT THE MAYO CLINIC MOBILE APP**
 
-I focused the team on leading with superb easy of use and functionality. I encouraged the team to let the brand come through by putting the needs of the patients first, through seamless, intuitive navigation and useful, sophisticated features for managing each person’s health and wellness, including Apple HealthKit integration.
+The Mayo Clinic mobile app was created for Mayo Clinic patients, to give them ultra-convenient access to all their healthcare data: their appointment schedule, test results, messages to their care team and more. The app has been rated by Apple as the #1 wellness mobile app in the AppStore. The app is offered on both iOS and Android platforms.
 
-With support from Apple’s user experience evangelists, Mayo’s talented design team developed iconography and a color system that resulting in increased findability and intuitive navigation. 
+**MY WORK ON THE MAYO CLINIC APP**
+
+In 2012 I joined a cross-functional team of talented, passionate and dynamic Mayo Clinic developers and user experience designers working on the Mayo Clinic mobile app. Our objective: to advance from a Minimum Viable Product to the next level of simple and sophisticated usability and value for people using the app.
+
+I focused the team on leading with superb easy of use and functionality. I encouraged the team to let the brand value come through by putting the needs of the patients first, with seamless, intuitive navigation and useful features for managing each person’s health and wellness, including Apple HealthKit integration.
+
+With support from Apple’s user experience evangelists, Mayo’s talented design team developed iconography and a color system that resulted in increased findability and intuitive navigation. 
+
+**RESULTS**
 
 The result was a highly usable product, beloved by Mayo Clinic patients, rated by Apple as the #1 wellness app.
 
