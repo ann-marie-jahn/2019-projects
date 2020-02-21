@@ -3,9 +3,9 @@ email: annmarie.jahn@gmail.com
 description: This website shares work by Ann Marie Jahn.
 baseurl: "" # the subpath of your site, e.g. /blog
 permalink: ':title/'
-url: "https://ann-marie-jahn.github.io"
+url: "https://ann-marie-creates.github.io"
 twitter_username: amjahn
-github_username:  ann-marie-creative
+github_username:  ann-marie-creates
 
 # Author settings
 author: Ann Marie Jahn # add your name

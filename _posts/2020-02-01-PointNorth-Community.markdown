@@ -14,6 +14,5 @@ Organization: PointNorth Community Eyewear
 
 Location: Minnesota
 
-![usa made](/assets/img/usa-ad-3.jpg)
+![USA made](/assets/img/usa-ad-3.jpg)
 _Stock photo_
-
