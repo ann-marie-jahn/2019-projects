@@ -32,7 +32,7 @@ gulp.task('browser-sync', ['sass', 'img', 'jekyll-build'], function() {
 
 // Compile files
 gulp.task('sass', function () {
-    return gulp.src('assets/css/sass/main.scss')
+    return gulp.src('2019-projects/assets/css/sass/main.scss')
         .pipe(sass({
             outputStyle: 'expanded',
             onError: browserSync.notify
@@ -40,12 +40,12 @@ gulp.task('sass', function () {
         .pipe(prefix(['last 15 versions', '> 1%', 'ie 8', 'ie 7'], { cascade: true }))
         .pipe(gulp.dest('_site/assets/css'))
         .pipe(browserSync.reload({stream:true}))
-        .pipe(gulp.dest('assets/css'));
+        .pipe(gulp.dest('2019-projects/assets/css'));
 });
 
 // Compression images
 gulp.task('img', function() {
-	return gulp.src('assets/img/**/*')
+	return gulp.src('2019-projects/assets/img/**/*')
 		.pipe(cache(imagemin({
 			interlaced: true,
 			progressive: true,
@@ -58,9 +58,9 @@ gulp.task('img', function() {
 
 // Watch scss, html, img files
 gulp.task('watch', function () {
-    gulp.watch('assets/css/sass/**/*.scss', ['sass']);
-    gulp.watch('assets/js/**/*.js', ['jekyll-rebuild']);
-    gulp.watch('assets/img/**/*', ['img']);
+    gulp.watch('2019-projects/assets/css/sass/**/*.scss', ['sass']);
+    gulp.watch('2019-projects/assets/js/**/*.js', ['jekyll-rebuild']);
+    gulp.watch('2019-projects/assets/img/**/*', ['img']);
     gulp.watch(['*.html', '_layouts/*.html', '_includes/*.html', '_pages/*.html', '_posts/*'], ['jekyll-rebuild']);
 });
 
