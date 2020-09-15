@@ -4,7 +4,7 @@ title:  "Palm USA"
 date:   2020-02-15 00:00:00 -0600
 categories: palm
 description: Driving innovation and profitability
-img: 2019-projects/stylus-pda.jpg
+img: stylus-pda.jpg
 tags: [Hardware,Software,Fashion,Function]
 author: Ann Marie Jahn
 ---
