@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![amj image](/assets/img/ann_marie.jpg)
+![amj image](/2019-projects/assets/img/ann_marie.jpg)
 
 Hello! I'm Ann Marie Jahn. It's nice to meet you!
 

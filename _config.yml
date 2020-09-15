@@ -45,12 +45,12 @@ plugins:
   - jekyll-sitemap
 
 include: [_pages]
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "2019-projects/assets/css/sass/"]
 
 defaults:
   - 
     scope:
-      path: "assets/img"
+      path: "2019-projects/assets/img"
     values:
       image: true
 
