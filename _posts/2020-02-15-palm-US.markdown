@@ -4,7 +4,7 @@ title:  "Palm USA"
 date:   2020-02-15 00:00:00 -0600
 categories: palm
 description: Driving innovation and profitability
-img: stylus-pda.jpg
+img: 2019-projects/stylus-pda.jpg
 tags: [Hardware,Software,Fashion,Function]
 author: Ann Marie Jahn
 ---
@@ -15,7 +15,7 @@ Company: Palm Computing
 
 Location: Santa Clara, California
 
-![tungsten t](/assets/img/palm_tungstent.jpg)
+![tungsten t](/2019-projects/assets/img/palm_tungstent.jpg)
 
 _Photo by Letdorf - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9801696_
 

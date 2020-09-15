@@ -4,7 +4,7 @@ title:  "Mayo Clinic Mobile App"
 date:   2020-02-19 00:00:00 -0600
 categories: Mayo Clinic Mobile App
 description: Building a people-friendly mobile app for patients
-img: mobile-app-design.jpg
+img: 2019-projects/mobile-app-design.jpg
 tags: [Health, Wellness, Mobile Apps, iOS, Android, Patient Portal]
 author: Ann Marie Jahn
 ---
@@ -14,7 +14,7 @@ Organization: Mayo Clinic
 
 Location: Rochester, Minnesota
 
-![patient app](/assets/img/patient_app.jpg)
+![patient app](/2019-projects/assets/img/patient_app.jpg)
 
 _Image courtesy of Edison Awards website_
 

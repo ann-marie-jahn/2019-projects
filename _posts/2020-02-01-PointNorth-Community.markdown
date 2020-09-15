@@ -4,7 +4,7 @@ title:  "PointNorth - Community Eyewear"
 date:   2020-02-01 00:00:00 -0600
 categories: PointNorth
 description: UVP in a crowded market
-img: canoe-horizontal.jpg
+img: 2019-projects/canoe-horizontal.jpg
 tags: [Fashion, Startup]
 author: Ann Marie Jahn
 ---
@@ -14,5 +14,5 @@ Organization: PointNorth Community Eyewear
 
 Location: Minnesota
 
-![USA made](/assets/img/usa-ad-3.jpg)
+![USA made](/2019-projects/assets/img/usa-ad-3.jpg)
 _Stock photo_

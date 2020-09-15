@@ -4,7 +4,7 @@ title:  "Revo Sunglasses"
 date:   2020-02-15 00:00:00 -0600
 categories: Revo
 description: Style and quality at market speed
-img: astronaut-lens.jpg
+img: 2019-projects/astronaut-lens.jpg
 tags: [Fashion,Function,Super-Premium,Global Distribution]
 author: Ann Marie Jahn
 
@@ -17,7 +17,7 @@ Organization: Revo, Inc. (Bausch & Lomb)
 
 Location: Mountain View, California
 
-![blue mirror](/assets/img/alps_skier.jpg)
+![blue mirror](/2019-projects/assets/img/alps_skier.jpg)
 
 _Stock photo_
 

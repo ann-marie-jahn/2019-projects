@@ -4,7 +4,7 @@ title:  "Barberini"
 date:   2020-02-15 00:00:00 -0600
 categories: Barberini
 description: New market opportunities for an Italian manufacturer
-img: city_lens.jpg
+img: 2019-projects/city_lens.jpg
 tags: [Fashion,Function,Made-in-Italy,Global Distribution]
 author: Ann Marie Jahn
 ---
@@ -14,7 +14,7 @@ Company: Barberini SpA
 
 Location: Pescara, Italy
 
-![fashion sunglass](/assets/img/fashion_sunglass.jpg)
+![fashion sunglass](/2019-projects/assets/img/fashion_sunglass.jpg)
 
 _Stock photo_
 

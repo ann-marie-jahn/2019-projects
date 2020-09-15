@@ -4,7 +4,7 @@ title:  "Non-Profit Organization MPDVoice"
 date:   2020-02-15 00:00:00 -0600
 categories: MPDVoice
 description: Giving people with rare blood cancers a voice
-img: mpd-image-asset-horizontal.jpg
+img: 2019-projects/mpd-image-asset-horizontal.jpg
 tags: [Health, Non-Profit/Charity,Startup,Empathy]
 author: Ann Marie Jahn
 ---
@@ -14,7 +14,7 @@ Organization: MPDVoice
 
 Location: London, England
 
-![mpd cover](/assets/img/mpd_cover.jpg)
+![mpd cover](/2019-projects/assets/img/mpd_cover.jpg)
 
 _Image courtesy of Huddle Creative, London, U.K._
 
